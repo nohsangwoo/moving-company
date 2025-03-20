@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "전문적인 이사 서비스를 제공합니다. 가정 이사, 사무실 이전, 장거리 이사 등 다양한 서비스를 이용해보세요.",
   keywords: "이사, 이사 서비스, 가정 이사, 사무실 이전, 장거리 이사, 이사 예약",
-    generator: 'v0.dev'
+    generator: 'ludgi'
 }
 
 export default function RootLayout({
